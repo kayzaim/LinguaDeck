@@ -1,0 +1,2 @@
+# LinguaDeck
+Translation app
